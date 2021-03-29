@@ -1,7 +1,7 @@
 # Agoric Widget
 A Rainmeter skin for monitoring Agoric node status.
 
-![Widget Preview](https://raw.githubusercontent.com/rudolfhe55/agoric-widget/master/Agoric Widget Example.png)
+![Widget Preview](https://github.com/rudolfhe55/agoric-widget/raw/main/Agoric%20Widget%20Example.png)
 
 # Requirements
  * [Rainmeter ](https://www.rainmeter.net)
