@@ -5,6 +5,7 @@ A Rainmeter skin for monitoring Agoric node status.
 
 # Requirements
  * [Rainmeter ](https://www.rainmeter.net)
+ * Enabled telemetry on your node (26660 port) ([guide](https://github.com/Agoric/agoric-sdk/blob/master/packages/cosmic-swingset/README-telemetry.md))
  
 ### Features:
 
