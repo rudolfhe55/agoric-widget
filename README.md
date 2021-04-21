@@ -14,6 +14,7 @@ A Rainmeter skin for monitoring Agoric node status.
  * Autoupdate data every 10 sec
  * Online/offline status
  * Current validator height
+ * System metrics
 
 # Installation
 ### On your server:
